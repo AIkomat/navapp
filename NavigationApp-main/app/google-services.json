@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416766547624",
+    "project_id": "navigationapp-406416",
+    "storage_bucket": "navigationapp-406416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416766547624:android:f9dac89e940ed90209949d",
+        "android_client_info": {
+          "package_name": "com.studentproject.navigationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNftocw-knkUDmTqPXmc60zgxfvhRDYQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
